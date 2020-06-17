@@ -1,0 +1,2 @@
+# parcial
+aplicacion de android 
